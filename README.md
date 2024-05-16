@@ -1,6 +1,3 @@
-Sure, here is a sample `README.md` file for your repository:
-
-```markdown
 # Algorithm Practice with Node.js
 
 This repository contains solutions to common algorithm problems implemented in Node.js, along with a set of unit tests to verify their correctness. The project is set up with Jest, a JavaScript testing framework, to make testing straightforward and efficient.
