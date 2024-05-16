@@ -3,6 +3,17 @@
 
 This repository contains solutions to common algorithm problems implemented in Node.js, along with unit tests to verify their correctness. Jest is used as the testing framework.
 
+## Schedule for practice
+
+- **Daily:**
+
+  - Solve 1-2 algorithm problems.
+  - Review related sections in the [cheat sheet](./CHEAT_SHEET.md).
+- **Weekly:**
+
+  - Review the entire [cheat sheet](./CHEAT_SHEET.md).
+  - Identify weak areas and plan focused practice for the next week.
+
 ## Getting Started
 
 ### Prerequisites
