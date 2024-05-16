@@ -1,6 +1,4 @@
-Sure, here is a more concise and organized `README.md`:
 
-```markdown
 # Algorithm Practice with Node.js
 
 This repository contains solutions to common algorithm problems implemented in Node.js, along with unit tests to verify their correctness. Jest is used as the testing framework.
