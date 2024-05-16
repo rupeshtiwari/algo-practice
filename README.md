@@ -18,7 +18,7 @@ Ensure you have Node.js installed on your machine. You can download it from [nod
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/algo-practice.git
+   git clone https://github.com/rupeshtiwari/algo-practice.git
    cd algo-practice
    ```
 
@@ -125,6 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy coding!
-```
-
-Replace `https://github.com/your-username/algo-practice.git` with the actual URL of your repository. This `README.md` provides a clear guide on how to set up, use, and contribute to your project.# algo-practice
+ 
